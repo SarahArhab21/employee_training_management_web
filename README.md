@@ -34,40 +34,6 @@ To use the Employee Management System, follow these steps:
 3. Access the dashboard: `http://localhost:8000/dashboard`
 4. Manage employees, formations, and demands using the provided API endpoints
 
-## 📂 Project Structure
-```markdown
-employee-management-system/
-app/
-Http/
-Controllers/
-Admin/
-Auth/
-Employe/
-Formation/
-...
-Models/
-Employe.php
-Formation.php
-Categorie.php
-...
-...
-config/
-database.php
-...
-public/
-index.php
-...
-resources/
-views/
-...
-routes/
-api.php
-web.php
-...
-...
-
-```
-
 ## 📸 Screenshots
 ![](images/photo_2026-02-06_22-17-53.jpg)
 ![](images/photo_2026-02-06_22-17-59.jpg)
